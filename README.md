@@ -1,6 +1,6 @@
 # Smart Home Monitoring System with AI-Powered Anomaly Detection
 
-An advanced IoT project that demonstrates integrating multiple IoT sensors with AI for anomaly detection, ideal for showcasing full-stack development skills at a Google interview.
+An advanced IoT project that demonstrates integrating multiple IoT sensors with AI for anomaly detection.
 
 ## Features
 
